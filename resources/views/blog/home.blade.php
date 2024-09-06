@@ -1,3 +1,5 @@
+{{-- Tugas Pratikum Nomor 3 View Halaman Home --}}
+
 <!DOCTYPE html>
 <html>
     <head>
